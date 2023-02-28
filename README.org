@@ -25,17 +25,17 @@ Discrete Mathematics: Introduction to Mathematical Reasoning. Susanna S. Epp. 1s
 
 * Schedule 
 
-Lectures: Monday and Wednesday 10h30am - 11h50am, at C105 
+Lectures: Monday and Wednesday 10h30 - 11h50am, at C105 
 
-Recitation: Wednesday 5pm - 5h50pm, at C105
+Recitation: Wednesday 5:00 - 5h50pm, at C105
 
-Office hours: Monday 4pm - 5pm  and Wednesday 7h00pm - 8h00pm, at B424
+Office hours: Monday 4:00 - 5:00pm  and Wednesday 7h00pm - 8h00pm, at B424
 
 Midterm exams: TBA
 
 Final exam: Wednesday, June 14, 9h-11h30.  
 
-TA office hours: TBA
+TA office hours: 6:00-8:00 pm every Monday through Thursday.
 
 
 Zoom just in case: 
@@ -85,7 +85,7 @@ Zhoulai Fu <zhoulai dot fu at sunykorea.ac.kr>  or  <zhoulai dot fu at stonybroo
 
 
 * Teaching assistant
-CheaYoung Park <cheayoung dot park@ at stonybrook.edu>
+CheaYoung Park <cheayoung dot park at stonybrook.edu>
 
 
 
