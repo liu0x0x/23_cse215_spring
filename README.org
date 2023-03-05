@@ -23,7 +23,7 @@ Discrete Mathematics: Introduction to Mathematical Reasoning. Susanna S. Epp. 1s
 
 
 
-* Schedule 
+* Overall Schedule 
 
 Lectures: Monday and Wednesday 10h30 - 11h50am, at C105 
 
@@ -38,28 +38,38 @@ Final exam: Wednesday, June 14, 9h-11h30.
 TA office hours: 6:00-8:00 pm every Monday through Thursday.
 
 
-Zoom just in case: 
+* Zoom just in case: 
 https://stonybrook.zoom.us/j/93553126576?pwd=aDBQN1M2V3BUanpHRUtYd0VZbm5YQT09
 
-Overall Schedule:
-
-- Propositional logic
-- Predicate logic
-- Proof techniques
-- Midterm 1
-- Sequences 
-- Sets
-- Midterm 2
-- Function
-- Final exam
 
 
-Detailed Schedule to be updated on a weeekly
+* Tentative Course Schedule
+
 
 Week01 (23-02-27)
 - Monday: Course Overview
 - Wednesday:  No class
 
+Week02 (23-03-06)
+- Monday: Propositional logic 1
+- Wednesday: Propositional logic 2
+- Wednesday recitation
+
+
+Week03 (23-03-13)
+- Monday:  Propositional logic 2
+- Wednesday:  Predicate logic 
+- Wednesday recitation
+
+Week04 (23-03-20)
+- Monday:  Proof 1 
+- Wednesday:  Proof 2 
+- Wednesday recitation
+
+Week05 (23-03-27)
+- Monday:  Proof 3 
+- Wednesday:  Proof 4 
+- Wednesday recitation
 
 
 
