@@ -8,7 +8,7 @@ Multiple submissions are possible before the due time; the last submission will 
 
  
 
-# Exercise 1. (score = 10)
+# Exercise 1. (score = 5)
 
 Check if the two statement forms below are logically equivalent. Explanation is needed (e.g. based on the truth table). 
 
@@ -16,7 +16,7 @@ Check if the two statement forms below are logically equivalent. Explanation is 
 -   p \\/ q -> r
 -   (p -> r) /\\ (q -> r)
 
-# Exercise 2 (score = 10)
+# Exercise 2 (score = 5)
 
 Check if the two statement form are equivalent. Explanation is needed (e.g. based on the truth table). 
 
@@ -51,7 +51,7 @@ Consider six statement forms (a-f):
 
 
 
-# Exercise 4 (score = 5)
+# Exercise 4 (score = 15)
 
 Consider the proposition ~P ∧ (Q → P). What can you conclude about P and Q if you know the statement is true? Explanation is needed (e.g. based on the truth table). 
 
