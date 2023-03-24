@@ -2,7 +2,7 @@
 
 # Guideline
 
-Homework for week 4. Due: 11:59 pm on Wednesday, March 30, 2022.
+Homework for week 4. Due: 11:59 pm on Thursday, March 30, 2022.
 
 Submit your solutions in a single PDF on Brightspace. Multiple submissions are possible before the due time; the last submission will be graded. 
 
