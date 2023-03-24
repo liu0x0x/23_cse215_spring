@@ -23,7 +23,7 @@ Discrete Mathematics: Introduction to Mathematical Reasoning. Susanna S. Epp. 1s
 
 
 
-* Overall Schedule 
+* Overall Course Schedule 
 
 Lectures: Monday and Wednesday 10h30 - 11h50am, at C105 
 
@@ -43,35 +43,15 @@ https://stonybrook.zoom.us/j/93553126576?pwd=aDBQN1M2V3BUanpHRUtYd0VZbm5YQT09
 
 
 
-* Tentative Course Schedule
+*  Course Outline
 
-
-Week01 (23-02-27)
-- Monday: Course Overview
-- Wednesday:  No class
-
-Week02 (23-03-06)
-- Monday: Propositional logic 1
-- Wednesday: Propositional logic 2
-- Wednesday recitation
-
-
-Week03 (23-03-13)
-- Monday:  Propositional logic 2
-- Wednesday:  Predicate logic 
-- Wednesday recitation
-
-Week04 (23-03-20)
-- Monday:  Proof 1 
-- Wednesday:  Proof 2 
-- Wednesday recitation
-
-Week05 (23-03-27)
-- Monday:  Proof 3 
-- Wednesday:  Proof 4 
-- Wednesday recitation
-
-
+- Propositional logic 
+- Predicate logic 
+- Proof
+- Sequences
+- Sets
+- Functions
+- Relations
 
 
 
@@ -80,11 +60,10 @@ Week05 (23-03-27)
 
 * Grading
 - Attendance: 5%
-- take-home assignment: 25%
-- In-class assignment: 10%  
-- Midterms: 30%
+- Homework: 25%
+- Midterms: 40%
 - Final exam: 30%
-
+- Students with regular participation get 1% bonus
 
 Late homework will generally not be accepted. Special requests must be presented to the course instructor with all supporting documentation as soon as possible. Once the solutions to the homework exercises are publicized, there shall be no ways to accept assignments, whatever the circumstance. 
 
